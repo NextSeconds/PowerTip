@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PowerTipApp</string>
+    <string name="edit_message">设置提示电量（默认100%）</string>
+    <string name="button_send">设置</string>
+</resources>
